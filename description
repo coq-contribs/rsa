@@ -1,0 +1,10 @@
+Name: RSA
+Title: Correctness of RSA algorithm
+Author: Jose C. Almeida
+Institution: University of Minho
+Author: Laurent Théry  
+Institution: INRIA Sophia-Antipolis
+Date: 1999
+Description: This directory contains the proof of correctness
+             of RSA algorithm. It contains a proof of Fermat's little theorem
+Keywords: RSA, Chinese remainder, Fermat's little theorem
